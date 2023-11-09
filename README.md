@@ -1,5 +1,5 @@
 # Project DBS: Video Game Sales and Stock Ticker Correlation
-Project at the Lucerne University of Applied Sciences and Arts, for the Database Systems (DBS) module. The primary goal is to analyze and correlate two distinct datasets: video game ratings and the stock performance of game publishing companies.
+Project at the Lucerne University of Applied Sciences and Arts(HSLU), for the Database Systems (DBS) module. The primary goal is to analyze and correlate two distinct datasets: video game ratings and the stock performance of game publishing companies.
 
 ## Datasets
 
@@ -18,4 +18,4 @@ To achieve the goal, we utilized the following datasets:
 ## Results
 
 The result of this project is a set of visualizations that illustrate the relationship between video game ratings and the financial performance of their respective publishers. The graphs indicate both critic scores and user scores plotted against revenue and sales. A linear regression (OLS) line is drawn to show the trend and potential correlation.
-![image](https://github.com/theoliver7/hslu-dbs/assets/10463395/3372513d-f9e4-4847-b999-ce3a17113406)
+![image](https://github.com/theoliver7/hslu-dbs/assets/10463395/fd62c7c4-8eaa-4b4a-a78b-e6195176dc01)
